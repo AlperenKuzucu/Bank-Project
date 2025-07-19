@@ -1,0 +1,12 @@
+# Ant build output
+/build/
+/dist/
+
+# NetBeans metadata
+nbproject/
+/nbproject/private/
+
+# macOS & IDE temp
+.DS_Store
+*.iml
+/.idea/
